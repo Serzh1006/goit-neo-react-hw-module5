@@ -1,0 +1,14 @@
+.input {
+  outline: none;
+  padding: 3px;
+  padding-left: 10px;
+  margin-right: 10px;
+}
+
+.btnSubmit {
+  padding: 5px 10px;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(115, 156, 153);
+}
