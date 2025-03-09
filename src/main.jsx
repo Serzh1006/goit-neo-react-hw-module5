@@ -6,7 +6,7 @@ import App from "./components/App";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/goit-neo-react-hw-module5">
       <App />
     </BrowserRouter>
   </StrictMode>
